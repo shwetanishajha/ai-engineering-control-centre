@@ -1,0 +1,22 @@
+[
+  {
+    "name": "AI FDD Intelligence",
+    "status": "In Progress",
+    "owner": "Engineering"
+  },
+  {
+    "name": "AI Security Gateway",
+    "status": "Testing",
+    "owner": "Security"
+  },
+  {
+    "name": "Enterprise AI Router",
+    "status": "Planned",
+    "owner": "AI Platform"
+  },
+  {
+    "name": "Persistence Test",
+    "owner": "Engineering",
+    "status": "Completed"
+  }
+]
